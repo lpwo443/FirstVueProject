@@ -10,6 +10,7 @@
     "test:unit": "vitest"
   },
   "dependencies": {
+    "@vueuse/core": "^12.8.2",
     "axios": "^1.8.1",
     "axois": "^0.0.1-security",
     "element-plus": "^2.9.5",
